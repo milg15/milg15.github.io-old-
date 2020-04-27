@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Pearson diagram for mining 
 
 [Project 1 Title](/sample_page)
 <img src="images/portfolio_pearson_1.png?raw=true"/>
