@@ -30,4 +30,4 @@ For more details see [d3.js - Correlogram](https://www.d3-graph-gallery.com/corr
 
 Before creating this I haven't been using Javascript to this level before. I had to learn about async and sync request for readning the file. I also understood how to manage different js files and I tested the d3 library which have many usages I didn't knew till then. 
 
-<img src="images/portfolio_pearson_1.jpg?raw=true"/>
+<img src=".../images/portfolio_pearson_1.jpg?raw=true"/>
