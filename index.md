@@ -27,9 +27,19 @@
 
 ---
 
+### What am I learning 
 
-
+ - Data Science (Kaggle, CS50 and books)
+ - React Native (CS Apps)
+ - Japanese 
 
 ---
+
+### My current favorites
+
+- **Note taking and eveything:** Notion (Note taking, social media)
+- **Video games:** Stardew Valley and League of Legends
+- **Book:** [Oona Out of Order] (https://www.goodreads.com/book/show/45046893-oona-out-of-order)
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
