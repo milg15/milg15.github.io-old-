@@ -4,7 +4,7 @@
 
 ### Pearson diagram for mining 
 
-[Project 1 Title](/sample_page)
+[Pearson's correlation (d3.js)](/sample_page)
 <img src="images/portfolio_pearson_1.jpg?raw=true"/>
 
 ---
