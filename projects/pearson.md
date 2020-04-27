@@ -1,4 +1,4 @@
-## Pearson's correlation diagram for data in mining company in Javasript
+## Pearson's correlation diagram in Javasript
 
 **Project description:** Using the [d3.js](https://d3js.org/) library I develeped a small javascript program that recives a csv file and allows to select n ammount of materials, calculates their pearson corelation number and then graphs it. I only was assigned the logic side of this project. 
 
