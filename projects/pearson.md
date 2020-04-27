@@ -2,7 +2,7 @@
 
 **Project description:** Using the [d3.js](https://d3js.org/) library I develeped a small javascript program that recives a csv file and allows to select n ammount of materials, calculates their pearson corelation number and then graphs it. I only was assigned the logic side of this project. 
 
-### 1. Assess assumptions on which statistical inference will be based
+### 1. Why Javascript?
 
 ```javascript
 if (isAwesome){
@@ -20,12 +20,14 @@ Running this function inside a loop. This will return the value that we'll need 
          (n * sumY2 - Math.pow(sumY, 2))));
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Graph used - Correlogram
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A correlogram or correlation matrix allows to analyse the relationship between each pair of numeric variables of a dataset. This is a very useful type of graph for comparing the pearson coefficient. 
 
-### 4. Provide a basis for further data collection through surveys or experiments
+For more details see [d3.js - Correlogram](https://www.d3-graph-gallery.com/correlogram.html).
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 4. What I learned
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Before creating this I haven't been using Javascript to this level before, tI had to learn about asyc and sync request for readning the file. I also understood how to manage difert js files and I tested the d3 library which have many usages I didn't knew till then. 
+
+<img src="images/pearson.jpg?raw=true"/>
