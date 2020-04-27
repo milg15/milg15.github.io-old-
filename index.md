@@ -5,7 +5,7 @@
 ### Pearson diagram for mining 
 
 [Project 1 Title](/sample_page)
-<img src="images/portfolio_pearson_1.png?raw=true"/>
+<img src="images/portfolio_pearson_1.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
