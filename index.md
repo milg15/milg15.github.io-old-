@@ -30,7 +30,7 @@
  - Data Science (Kaggle, CS50 and books)
  - React Native (CS Apps)
  - Japanese 
- - Full-Stack Developer Certificate [FreeCodeCamp](http://freecodecamp.com)
+ - Full-Stack Developer Certificate [My FreeCodeCamp profile](https://www.freecodecamp.org/milg15)
 
 ---
 
