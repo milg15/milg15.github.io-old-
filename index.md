@@ -8,7 +8,7 @@
 <img src="images/portfolio_pearson_1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Websites I've worked on](/projects/websites)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
