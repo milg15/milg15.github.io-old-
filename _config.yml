@@ -1,12 +1,11 @@
 title: Maria Isabel Lopez # your name (or website title) here
 logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! My name is Maria I'm a Computer Science Student and Freelancer in Lima, Peru. 
+  Hi! My name is Maria. I'm a Computer Science Student and Freelancer in Lima, Peru. 
   <br><br>
-  I'm a Zoho Developer Freelancer at <a href="https://www.upwork.com/freelancers/~01b0ef99178843ede6">Upwork</a> and <a href="https://www.workana.com/freelancer/a7d9332d18d878c19f01c518e58673f0">Workana</a>
-  but I'm interestend in opportunities in Software and Front-End development.
+  I work as a Freelancer at <a href="https://www.upwork.com/freelancers/~01b0ef99178843ede6">Upwork</a> and <a href="https://www.workana.com/freelancer/a7d9332d18d878c19f01c518e58673f0">Workana</a>
+  mostly as a Zoho Developer but I'm interestend in opportunities in Software and Front-End development.
   <br><br>
   <a href="https://linkedin.com/in/mi-lopez ">View My LinkedIn Profile</a> 
-
 theme: jekyll-theme-minimal
 google_analytics: UA-164761622-1 # your Google Analytics tracking ID here
