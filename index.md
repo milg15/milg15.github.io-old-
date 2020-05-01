@@ -2,7 +2,7 @@
 
 ---
 
-### Pearson diagram for mining 
+### Some things I've created
 
 [Pearson's correlation (d3.js)](/projects/pearson)
 <img src="images/portfolio_pearson_1.jpg?raw=true"/>
@@ -32,6 +32,7 @@
  - Data Science (Kaggle, CS50 and books)
  - React Native (CS Apps)
  - Japanese 
+ - Full-Stack Developer Certificate [FreeCodeCamp](http://freecodecamp.com)
 
 ---
 
